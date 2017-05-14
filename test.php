@@ -2,7 +2,7 @@
 this is dev new branch
 
 echo "<pre>";
-print_r($_REQUEST);
+this is dev new branch
 exit();
 
 echo "<pre>";
