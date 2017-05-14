@@ -17,6 +17,8 @@ Mage::app();
 //$postData = Mage::app()->getRequest()->getParams();
 //print_r($data);
 $postData['transaction_id']=13123123;
+$postData['transaction_id']=13123123;
+$postData['transaction_id']=13123123;
 $postData['test1']=13123123;
 $postData['test2']='asdsad';
 
