@@ -2,6 +2,10 @@
 echo "<pre>";
 print_r($_REQUEST);
 exit();
+
+echo "<pre>";
+print_r($_REQUEST);
+exit();
 ?>
 <?php
 
